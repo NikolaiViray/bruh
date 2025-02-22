@@ -1,0 +1,330 @@
+
+@media (min-width: 320px) {
+
+    * {
+
+        /* border: inherit;
+        border: 2px solid red;   */
+    
+    }
+
+    .MainContainer {
+        
+        background-color: aqua;
+        width: 83%;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        padding-left: 17%;
+        
+    }
+
+    .Img {
+        
+        margin-top: -500px;
+        width: 200px;
+        
+    }
+
+    
+    .Description {
+
+        font-size: 20px;
+        margin-left: 10px;
+
+    }
+}
+
+
+
+
+@media (min-width: 375px) {
+
+    * {
+
+        /* border: inherit;
+        border: 2px solid red;   */
+    
+    }
+
+    .MainContainer {
+        
+        background-color: aqua;
+        width: 83%;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        padding-left: 17%;
+        
+    }
+
+    .Img {
+        
+        margin-top: -500px;
+        margin-left: 10px;
+        width: 220px;
+        
+    }
+
+    .Description {
+
+        font-size: 20px;
+        margin-left: 30px;
+
+    }
+}
+
+
+
+
+
+@media (min-width: 425px) {
+
+
+    * {
+
+        /* border: inherit;
+        border: 2px solid red;   */
+    
+    }
+
+    .MainContainer {
+        
+        background-color: aqua;
+        width: 83%;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        padding-left: 17%;
+        
+    }
+
+    .Img {
+        
+        margin-top: -400px;
+        margin-left: 25px;
+        width: 200px;
+        
+    }
+
+    
+    .Description {
+
+        font-size: 30px;
+        margin-left: 3px;
+
+    }
+
+}
+
+@media (min-width: 768px) {
+
+    * {
+
+        /* border: inherit;
+        border: 2px solid red;   */
+    
+    }
+
+    .MainContainer {
+        
+        background-color: aqua;
+        width: 83%;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        padding-left: 17%;
+        
+    }
+
+    .Img {
+        
+        margin-top: -200px;
+        margin-left: 25px;
+        width: 400px;
+        
+    }
+
+    
+    .Description {
+
+        font-size: 40px;
+        margin-left: 50px;
+
+    }
+}
+
+@media (min-width: 1024px) {
+    * {
+
+        /* border: inherit;
+        border: 2px solid red;   */
+    
+    }
+
+    .MainContainer {
+        
+        background-color: aqua;
+        width: 83%;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        padding-left: 17%;
+        
+    }
+
+    .Img {
+        
+        margin-top: -200px;
+        margin-left: 125px;
+        width: 400px;
+        
+    }
+
+    
+    .Description {
+
+        font-size: 40px;
+        margin-left: 150px;
+
+    }
+
+}
+
+@media (min-width: 1440px) {
+
+    * {
+
+        /* border: inherit;
+        border: 2px solid red;   */
+    
+    }
+
+    .MainContainer {
+        
+        background-color: aqua;
+        width: 83%;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        padding-left: 17%;
+        
+    }
+
+    .Img {
+        
+        margin-top: -200px;
+        margin-left: 275px;
+        width: 400px;
+        
+    }
+
+    
+    .Description {
+
+        font-size: 40px;
+        margin-left: 290px;
+
+    }
+
+}
+
+@media (min-width: 2560px) {
+
+    * {
+
+        /* border: inherit;
+        border: 2px solid red;   */
+    
+    }
+
+    .MainContainer {
+        
+        background-color: aqua;
+        width: 83%;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        padding-left: 17%;
+        
+    }
+
+    .Img {
+        
+        margin-top: -200px;
+        margin-left: 455px;
+        width: 800px;
+        
+    }
+
+    
+    .Description {
+
+        font-size: 40px;
+        margin-left: 680px;
+
+    }
+
+}
+
+@media (min-width: 1629px) {
+
+    * {
+
+        /* border: inherit;
+        border: 2px solid red;   */
+    
+    }
+
+    .MainContainer {
+        
+        background-color: aqua;
+        width: 83%;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        padding-left: 17%;
+        
+    }
+
+    .Img {
+        
+        margin-top: -200px;
+        margin-left: 455px;
+        width: 800px;
+        
+    }
+
+    
+    .Description {
+
+        font-size: 40px;
+        margin-left: 680px;
+
+    }   
+
+}
